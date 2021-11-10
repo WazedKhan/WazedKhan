@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WazedKhan
+- 👋 Hi, I’m Wazed
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
