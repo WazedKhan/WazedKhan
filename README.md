@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Wazed
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with Web Programming
 - 📫 How to reach me https://www.facebook.com/m.wazedkhan11.01/
 
 <!---
