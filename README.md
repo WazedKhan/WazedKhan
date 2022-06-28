@@ -4,7 +4,7 @@
 - 👀 I’m interested in data science,currently working with Web Programming
 - 📫 How to reach me 
 ### Facebook: https://www.facebook.com/m.wazedkhan11.01/
-### [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteLinkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/abdul-wajed-khan-138134209/
+### Linkedin: https://www.linkedin.com/in/abdul-wajed-khan-138134209/
 
 <!---
 WazedKhan/WazedKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
