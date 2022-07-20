@@ -1,4 +1,5 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Wajed ### I'm a Software Engineer
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Wajed 
+### I'm a Software Engineer
 
 ## Connect With Me:
 <a href="https://www.instagram.com/wazed221b/">
@@ -14,6 +15,7 @@
 WazedKhan/WazedKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+---
 ## My GitHub Stats 💻
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" />
