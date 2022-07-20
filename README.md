@@ -7,8 +7,8 @@
   <img align="left" alt="Wajed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://www.facebook.com/m.wazedkhan11.01/">
-  <img align="left" alt="Wajed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.png" />
+<a href="https://www.linkedin.com/in/abdul-wajed-khan-138134209/">
+  <img align="left" alt="Wajed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ### Linkedin: https://www.linkedin.com/in/abdul-wajed-khan-138134209/
