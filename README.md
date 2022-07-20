@@ -11,6 +11,7 @@
 </a>
 
 <br/>
+
 ## My GitHub Stats 💻
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" />
