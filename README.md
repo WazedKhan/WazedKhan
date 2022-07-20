@@ -11,11 +11,10 @@
   <img align="left" alt="Wajed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-### Linkedin: https://www.linkedin.com/in/abdul-wajed-khan-138134209/
 
 <!---
 WazedKhan/WazedKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" />
