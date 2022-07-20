@@ -10,7 +10,7 @@
   <img align="left" alt="Wajed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-br
+<br/>
 ## My GitHub Stats 💻
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" />
