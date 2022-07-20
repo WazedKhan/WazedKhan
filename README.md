@@ -1,10 +1,10 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Wajed 
 ### I'm a Software Engineer
 
-## Connect With Me:
+
 <a href="https://www.instagram.com/wazed221b/">
   <img align="left" alt="Wajed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+</a> |
 
 <a href="https://www.linkedin.com/in/abdul-wajed-khan-138134209/">
   <img align="left" alt="Wajed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
