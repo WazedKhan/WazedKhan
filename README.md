@@ -15,8 +15,10 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Django" src="https://img.shields.io/pypi/pyversions/4?color=%23808080&label=Python&logo=Python&style=flat-square" />
-  <img alt="Django" src="https://img.shields.io/pypi/v/django?color=white&label=Django&logo=django&logoColor=green&style=flat-square" />
-  <img alt="Django" src="https://img.shields.io/pypi/v/jupyter?label=Jupyter%20Notebook&logo=jupyter&style=flat-square" />
+  <img alt="Django" src="https://img.shields.io/pypi/v/django?color=%230418&label=Django&logo=django&logoColor=green&style=flat-square" />
+  <img alt="notebook" src="https://img.shields.io/pypi/v/jupyter?label=Jupyter%20Notebook&logo=jupyter&style=flat-square" />
+  <img alt="pandas" src="https://img.shields.io/pypi/v/pandas?color=%2304184d&label=Pandas&logo=pandas&style=flat-square" />
+  <img alt="numpy" src="https://img.shields.io/pypi/v/numpy?color=%23012326&label=NumPy&logo=numpy&style=flat-square" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
