@@ -3,7 +3,9 @@
 - 👋 I’m <strong>Wajed</strong>
 - 👀 I’m interested in data science,currently working with Web Programming
 - 📫 How to reach me 
-### Facebook: https://www.facebook.com/m.wazedkhan11.01/
+<a href="https://www.instagram.com/wazed221b/">
+  <img align="left" alt="Wajed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 ### Linkedin: https://www.linkedin.com/in/abdul-wajed-khan-138134209/
 
 <!---
