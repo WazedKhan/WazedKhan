@@ -34,5 +34,5 @@
 
 ## My GitHub Stats 💻
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazedkhan&hide=java,html,css&theme=dracula" alt="wajed" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazedkhan&hide=java,html,css&theme=dracula" alt="wajed" /> </P>
