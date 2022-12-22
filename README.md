@@ -16,6 +16,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/pypi/pyversions/4?color=%23808080&label=Python&logo=Python&style=flat-square" />
   <img alt="Django" src="https://img.shields.io/pypi/v/django?color=%230418&label=Django&logo=django&logoColor=green&style=flat-square" />
+  <img alt="PyPI" src="https://img.shields.io/pypi/v/pytest?    color=white&label=Pytest&logo=https%3A%2F%2Fdocs.pytest.org%2Fen%2F7.2.x%2F_static%2Fpytest_logo_curves.svg&style=flat-square">
   <img alt="notebook" src="https://img.shields.io/pypi/v/jupyter?label=Jupyter%20Notebook&logo=jupyter&style=flat-square" />
   <img alt="pandas" src="https://img.shields.io/pypi/v/pandas?color=%2304184d&label=Pandas&logo=pandas&style=flat-square" />
   <img alt="numpy" src="https://img.shields.io/pypi/v/numpy?color=%23012326&label=NumPy&logo=numpy&style=flat-square" />
