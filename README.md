@@ -1,5 +1,12 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Wajed
-<p>Welcome to my page!</p> <img alt="Python" src="https://komarev.com/ghpvc/?username=WazedKhan&color=dc143c" />
+
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/WazedKhan/count.svg" />
+</p>
 
 ### Where to find me: 
 <a href="https://www.instagram.com/wazed221b/">
