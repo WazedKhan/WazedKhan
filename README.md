@@ -1,4 +1,20 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Wajed
+<!-- Title -->
+<h1 align="center" title="...and I'm happy to see you here :)"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey! 𝙸'𝚖 Wajed</h1>
+
+<!-- Contact and keys -->
+<p align="center">
+<a href="mailto:wazedkhan111024@gmail.com" title="Email Address"><code>wazedkhan111024@gmail.com</code></a>
+</p>
+
+<!-- Socials -->
+<p align="center">
+   <kbd>
+  <a href="https://stackoverflow.com/users/11510952/tintin" title="StackOverflow - Wajed(Tintin)"><img src="https://img.shields.io/badge/-Wajed(Tintin)-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdul-wajed-khan-138134209/" title="LinkedIn - Abdul Wajed Khan"><img src="https://img.shields.io/badge/-Abdul Wajed Khan-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/wazed221b/" title="LinkedIn - Abdul Wajed Khan"><img src="https://img.shields.io/badge/-Abdul Wajed Khan-CA106D?style=flat&logo=instagram&logoColor=pink" /></a>
+
+  </kbd>
+</p>
 
 
 
@@ -22,6 +38,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/pypi/pyversions/4?color=%23808080&label=Python&logo=Python&style=flat-square" />
+  <img alt="Django Rest Framework" src="https://img.shields.io/pypi/v/djangorestframework?color=%230418&label=Django Rest Framework&logo=djangorestframework&logoColor=red&style=flat-square" />
   <img alt="Django" src="https://img.shields.io/pypi/v/django?color=%230418&label=Django&logo=django&logoColor=green&style=flat-square" />
   <img alt="PyPI" src="https://img.shields.io/pypi/v/pytest?    color=white&label=Pytest&logo=https%3A%2F%2Fdocs.pytest.org%2Fen%2F7.2.x%2F_static%2Fpytest_logo_curves.svg&style=flat-square">
   <img alt="notebook" src="https://img.shields.io/pypi/v/jupyter?label=Jupyter%20Notebook&logo=jupyter&style=flat-square" />
