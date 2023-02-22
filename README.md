@@ -19,7 +19,7 @@
 
 
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/WazedKhan/count.svg" />
 </p>
@@ -48,7 +48,9 @@
 
 <br/>
 
+<img src="github-snake.git" alt="">
+
 ## My GitHub Stats 💻
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazedkhan&hide=java,html,css&theme=dracula" alt="wajed" /> </P>
