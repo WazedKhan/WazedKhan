@@ -24,7 +24,6 @@
   <img src="https://profile-counter.glitch.me/WazedKhan/count.svg" />
 </p>
 
-<p align="center"><img src="https://github.com/WazedKhan/WazedKhan/blob/main/github-snake.gif" alt=""></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
