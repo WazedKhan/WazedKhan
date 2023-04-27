@@ -1,5 +1,6 @@
 <!-- Title -->
 <h1 align="center" title="...and I'm happy to see you here :)"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey! 𝙸'𝚖 Wajed</h1>
+<p align="center" >Your friendly neighbor Python Developer🦸🏽‍♂️. Let me know if I can help you with my knowledge👨🏽‍💻</p>
 
 <!-- Contact and keys -->
 <p align="center">
