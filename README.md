@@ -1,39 +1,69 @@
-<!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey! 𝙸'𝚖 Wajed</h1>
-<p align="center" >Your friendly-neighborhood Python Developer🦸🏽‍♂️. Let me know if I can help you with my knowledge👨🏽‍💻 .</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi,%20I'm%20Wajed&fontSize=70&animation=fadeIn" />
 
-<!-- Contact and keys -->
+  <h3>🚀 Backend Engineer | Python & Go Enthusiast</h3>
+
+  <p>
+    <a href="mailto:wazedkhan111024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/abdul-wajed-khan-138134209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/11510952/tintin"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=wazedkhan&label=Profile%20Views&color=00c9ff&style=flat-square" alt="views" />
+</div>
+
+---
+
+### 🧑‍💻 Summary
+
+I am a **Backend Engineer** with **2+ years of experience** specializing in building robust web applications with Python and Django. Currently, I am expanding my horizons into the **Go ecosystem** and deepening my knowledge of **distributed systems**.
+
+* 🔭 **Currently working on:** Refining my System Design skills and migrating microservices to Go.
+* 🌱 **Learning Path:** Advanced Kubernetes, GraphQL architectures, and Concurrency patterns.
+* 🎯 **Goal:** Building high-throughput, production-ready systems that scale.
+* 💬 **Ask me about:** Python, Django optimization, or why I'm excited about Go!
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="30%"><strong>Languages</strong></td>
+    <td align="center" width="70%">
+      <img src="https://skillicons.dev/icons?i=python,go,js,ts" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks & Runtime</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infrastructure & DB</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,kubernetes,aws" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux,git,postman,graphql,kafka" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wazedkhan&theme=transparent&hide_border=true&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75)
+</div>
+
+---
+
 <p align="center">
-<a href="mailto:wazedkhan111024@gmail.com" title="Email Address"><code>wazedkhan111024@gmail.com</code></a>
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
-
-<!-- Socials -->
-<p align="center">
-   <kbd>
-  <a href="https://stackoverflow.com/users/11510952/tintin" title="StackOverflow - Wajed(Tintin)"><img src="https://img.shields.io/badge/-Wajed(Tintin)-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdul-wajed-khan-138134209/" title="LinkedIn - Abdul Wajed Khan"><img src="https://img.shields.io/badge/-Abdul Wajed Khan-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/wazed221b/" title="LinkedIn - Abdul Wajed Khan"><img src="https://img.shields.io/badge/-Abdul Wajed Khan-CA106D?style=flat&logo=instagram&logoColor=pink" /></a>
-
-  </kbd>
-</p>
-
-
-
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/WazedKhan/count.svg" />
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="go" width="40" height="40"/>
-</a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-
-   
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wazedkhan&" alt="wazedkhan" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wazedkhan&show_icons=true&theme=gotham" alt="wajed" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazedkhan&hide=java,html,css&theme=dracula" alt="wajed" /> </P>
