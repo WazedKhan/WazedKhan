@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 Summary
 
-I am a **Backend Engineer** with **2+ years of experience** specializing in building robust web applications with Python and Django. Currently, I am expanding my horizons into the **Go ecosystem** and deepening my knowledge of **distributed systems**.
+I am a **Backend Engineer** with **3+ years of experience** specializing in building robust web applications with Python and Django. Currently, I am expanding my horizons into the **Go ecosystem** and deepening my knowledge of **distributed systems**.
 
 * 🔭 **Currently working on:** Refining my System Design skills and migrating microservices to Go.
 * 🌱 **Learning Path:** Advanced Kubernetes, GraphQL architectures, and Concurrency patterns.
