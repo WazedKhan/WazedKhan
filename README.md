@@ -31,13 +31,13 @@ I am a **Backend Engineer** with **3+ years of experience** specializing in buil
   <tr>
     <td align="center" width="30%"><strong>Languages</strong></td>
     <td align="center" width="70%">
-      <img src="https://skillicons.dev/icons?i=python,go,js,ts" />
+      <img src="https://skillicons.dev/icons?i=python,go,js,ts,rust" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Frameworks & Runtime</strong></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,react" />
     </td>
   </tr>
   <tr>
