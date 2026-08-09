@@ -31,7 +31,7 @@ I am a **Backend Engineer** with **3+ years of experience** specializing in buil
   <tr>
     <td align="center" width="30%"><strong>Languages</strong></td>
     <td align="center" width="70%">
-      <img src="https://skillicons.dev/icons?i=python,go,js,ts,rust" />
+      <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts" />
     </td>
   </tr>
   <tr>
