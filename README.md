@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:00c9ff,50:8871e5,100:92fe9d&text=wajed.exe&fontSize=72&fontColor=ffffff&animation=twinkling&stroke=8871e5&strokeWidth=1" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=Backend+engineer%2C+the+part+of+the+app+you+can't+see+%F0%9F%91%80;Python+is+my+first+love%2C+Go+is+my+situationship+%F0%9F%92%94;I+speak+fluent+HTTP+status+codes;3%2B+years+of+turning+coffee+into+APIs+%E2%98%95;sudo+rm+-rf+imposter_syndrome%2F" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=780&lines=Backend+engineer%2C+the+part+of+the+app+you+can't+see+%F0%9F%91%80;Python+is+my+first+love%2C+Go+is+my+situationship+%F0%9F%92%94;I+speak+fluent+HTTP+status+codes;3%2B+years+of+turning+coffee+into+APIs+%E2%98%95;sudo+rm+-rf+imposter_syndrome%2F" alt="typing intro" />
 
 <br/><br/>
 
@@ -121,12 +121,6 @@ CSS         ██░░░░░░░░░░░░░░░░░░░  cen
 
 <details>
 <summary>🕵️ TOP SECRET: do not click</summary>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/wazedkhan/wazedkhan/main/assets/decrypt-terminal.svg" width="550" alt="decrypting" />
-</div>
 
 <br/>
 
