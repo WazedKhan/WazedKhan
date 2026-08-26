@@ -1,69 +1,133 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi,%20I'm%20Wajed&fontSize=70&animation=fadeIn" />
 
-  <h3>🚀 Backend Engineer | Python & Go Enthusiast</h3>
+## 🖥️ Boot sequence
 
-  <p>
-    <a href="mailto:wazedkhan111024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/abdul-wajed-khan-138134209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://stackoverflow.com/users/11510952/tintin"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  </p>
+```console
+$ whoami
+wajed, backend engineer. if the page loads fast and nothing is on fire, that was me.
 
-  <img src="https://komarev.com/ghpvc/?username=wazedkhan&label=Profile%20Views&color=00c9ff&style=flat-square" alt="views" />
-</div>
+$ uptime
+3+ years in production. occasional restarts (vacations). zero unplanned outages of enthusiasm.
 
----
+$ ps aux | grep currently
+learning    Go, distributed systems, advanced k8s     ← eating all the RAM
+building    high-throughput systems that scale        ← running smoothly
+migrating   microservices from Python to Go           ← 47% complete, do not power off
+```
 
-### 🧑‍💻 Summary
+## 🐹 Me, but as a Go struct
 
-I am a **Backend Engineer** with **3+ years of experience** specializing in building robust web applications with Python and Django. Currently, I am expanding my horizons into the **Go ecosystem** and deepening my knowledge of **distributed systems**.
+*(because writing a bio in prose is so 2024)*
 
-* 🔭 **Currently working on:** Refining my System Design skills and migrating microservices to Go.
-* 🌱 **Learning Path:** Advanced Kubernetes, GraphQL architectures, and Concurrency patterns.
-* 🎯 **Goal:** Building high-throughput, production-ready systems that scale.
-* 💬 **Ask me about:** Python, Django optimization, or why I'm excited about Go!
+```go
+package main
 
----
+import "time"
 
-### 🛠️ Tech Stack & Skills
+type Wajed struct {
+	Role      string
+	Stack     []string
+	Curr      string
+	AskMe     []string
+	FunFact   string
+}
 
-<table align="center">
-  <tr>
-    <td align="center" width="30%"><strong>Languages</strong></td>
-    <td align="center" width="70%">
-      <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frameworks & Runtime</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,react" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Infrastructure & DB</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,kubernetes,aws" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,git,postman,graphql,kafka" />
-    </td>
-  </tr>
-</table>
+func main() {
+	me := Wajed{
+		Role:    "Backend Engineer",
+		Stack:   []string{"Python", "Django", "FastAPI", "Go", "C#", "PostgreSQL", "Redis", "Kafka"},
+		Curr:    "rewriting microservices in Go and telling everyone about it",
+		AskMe:   []string{"Django optimization", "system design", "why Go's error handling is actually fine"},
+		FunFact: "my code works on YOUR machine too. that's the whole job.",
+	}
 
----
+	for me.IsAlive() {
+		me.Coffee()
+		me.Code()
+		me.Debug()      // 80% of the loop, let's be honest
+		time.Sleep(6 * time.Hour) // aspirational
+	}
+}
+```
 
-### 📊 GitHub Analytics
+## ⚔️ The eternal struggle: 🐍 vs 🐹
+
+| Round          | 🐍 Python           | 🐹 Go                 | Verdict                      |
+| :------------- | :----------------- | :------------------- | :--------------------------- |
+| Writing it     | poetry             | paperwork            | 🐍                            |
+| Running it     | ☕ brew a coffee    | already done         | 🐹                            |
+| Error handling | `try: everything`  | `if err != nil` ×400 | 🐍 (fight me)                 |
+| Deploying it   | 1.2GB docker image | single 12MB binary   | 🐹                            |
+| My heart       | first love         | current obsession    | ❤️ both, don't make me choose |
+
+## 🧰 Weapons of choice
+
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wazedkhan&theme=transparent&hide_border=true&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75)
+```text
+Python      ████████████████████░  daily driver
+Go          ███████████████░░░░░░  new obsession
+C#          ████████████░░░░░░░░░  picked up on the job at Hjemla
+PostgreSQL  ██████████████████░░░  we've been through a lot together
+Kubernetes  ████████████░░░░░░░░░  it works, don't touch it
+Rust        █████░░░░░░░░░░░░░░░░  the borrow checker and I are in couples therapy
+CSS         ██░░░░░░░░░░░░░░░░░░░  center a div? ...anyway, I'm a backend engineer
+```
+
+## 📟 How to reach me (by HTTP status)
+
+|           Code            | Meaning                            | Where                                                               |
+| :-----------------------: | :--------------------------------- | :------------------------------------------------------------------ |
+|         `200 OK`          | fastest response                   | [email](mailto:wazedkhan111024@gmail.com)                           |
+|  `301 Moved Permanently`  | professional me lives here         | [LinkedIn](https://www.linkedin.com/in/abdul-wajed-khan-138134209/) |
+|    `418 I'm a teapot`     | me answering questions as "tintin" | [Stack Overflow](https://stackoverflow.com/users/11510952/tintin)   |
+| `503 Service Unavailable` | weekends (allegedly)               | touching grass 🌱                                                    |
+
+## 📊 The numbers (my manager loves this part)
+
+<div align="center">
+
+## 😂 Emergency dev joke (refreshes on reload)
+
+<div align="center">
+
+<details>
+<summary>🕵️ TOP SECRET: do not click</summary>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/wazedkhan/wazedkhan/main/assets/decrypt-terminal.svg" width="550" alt="decrypting" />
 </div>
 
----
+<br/>
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
+<div align="center">
+
+you clicked. of course you clicked. you're a developer, "do not click" is a feature request to you.
+
+```text
+┌────────────────────────────────────────────┐
+│  ACHIEVEMENT UNLOCKED 🏆                   │
+│  "Read the whole README"                   │
+│                                            │
+│  Reward: my eternal respect + this cat     │
+│                                            │
+│      /\_/\                                 │
+│     ( o.o )   < "ship it"                  │
+│      > ^ <                                 │
+└────────────────────────────────────────────┘
+```
+
+**Actual secret roadmap:**
+
+- [X] Get paid to write Python
+- [X] Sneak Go into production
+- [ ] Convince team Rust is "just a small experiment"
+- [ ] Write a database from scratch, use it never, mention it forever
+
+</details>
+
+<br/>
+
+<div align="center">
